@@ -1,5 +1,4 @@
 import { Title, Flex, Button, Box, Text } from "@mantine/core";
-import QuestionMarkIcon from "@mui/icons-material/QuestionMark";
 import "./App.css";
 
 function App() {
