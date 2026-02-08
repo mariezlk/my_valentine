@@ -19,7 +19,7 @@ function Home() {
             </Title>
             <Text w="50%" align="center" c="#ffd3e3">
                 <Typewriter
-                    words={["... warum? Wähle eine der folgenden Kategorien!"]}
+                    words={["... warum? Wähle eine der folgenden Kategorien:"]}
                     cursor
                     />
             </Text>

@@ -11,7 +11,7 @@ export default function Letter({content, start}) {
       <motion.div
         initial={{ y: 0, opacity: 0 }}
         onClick={() => setOpen(false)}
-        animate={open ? { y: -80, opacity: 1, zIndex: 2} : {}}
+        animate={open ? { y: -100, opacity: 1, zIndex: 2} : {}}
         transition={{ duration: 0.6 }}
         style={{
           position: "absolute",
@@ -20,14 +20,15 @@ export default function Letter({content, start}) {
           background: "white",
           borderRadius: 8,
           padding: 20,
+          paddingTop: 0,
           boxShadow: "0 10px 30px rgba(0,0,0,0.2)",
           zIndex: 4
         }}
       >
         <p style={{ fontSize: 18 }}>
-          {start}
-          <br />
-           {content.compliment}
+            {start}
+            <br />
+            {content.compliment}
         </p>
       </motion.div>
 
