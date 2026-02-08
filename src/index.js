@@ -2,11 +2,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import { MantineProvider } from '@mantine/core';
-import '@mantine/core/styles.css'
+import '@mantine/core/styles.css';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <MantineProvider>
-    <App />
+    <Router>
+      <App />
+    </Router>
   </MantineProvider>
 );
