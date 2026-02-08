@@ -1,4 +1,4 @@
-import { Title, Flex, Button, Box, Text } from "@mantine/core";
+import { Button, Text } from "@mantine/core";
 import { useNavigate } from "react-router";
 
 function Kategorie({name, route}) {

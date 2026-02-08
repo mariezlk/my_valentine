@@ -1,4 +1,4 @@
-import { Title, Flex, Button, Box, Text } from "@mantine/core";
+import { Title, Flex, Text } from "@mantine/core";
 import Kategorie from "../components/Kategorie";
 import { Player } from "@lottiefiles/react-lottie-player";
 import catLoveData from "../components/cat-feeling-loved.json";

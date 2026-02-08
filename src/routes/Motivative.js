@@ -1,4 +1,4 @@
-import { Title, Flex, Button, Box, Text } from "@mantine/core";
+import { Title, Flex, Box } from "@mantine/core";
 import { Typewriter } from "react-simple-typewriter";
 import Letter from "../components/Letter";
 import GoBackBtn from "../components/GoBackBtn";

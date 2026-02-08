@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { Flex } from "@mantine/core";
 import { useState } from "react";
 
 export default function Letter({content, start}) {

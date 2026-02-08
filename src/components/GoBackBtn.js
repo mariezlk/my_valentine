@@ -1,4 +1,4 @@
-import { Title, Flex, Button, Box, Text } from "@mantine/core";
+import { Button } from "@mantine/core";
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { useNavigate } from "react-router";
 
