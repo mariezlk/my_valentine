@@ -32,6 +32,58 @@ export default function Motivative() {
     {
       id: 6,
       compliment: "Egal was passiert, für mich bist und bleibst Du der der aller Beste!💓​"
+    },
+    {
+      id: 7,
+      compliment: "Ich glaub immer an dich - auch wenn du es gerade nicht kannst!💓​"
+    },
+    {
+      id: 8,
+      compliment: "Ich bin immer an deiner Seite!💓​"
+    },
+    {
+      id: 9,
+      compliment: "Ich bin so unglaublich Stolz auf dich, mein Schatz!💓​"
+    },
+    {
+      id: 10,
+      compliment: "Egal was noch kommt, gemeinsam können wir Alles schaffen!💓​"
+    },
+    {
+      id: 11,
+      compliment: "ICh bewundere dich dafür, mit welcher Leichtigkeit du das Alles schaffst!💓​"
+    },
+    {
+      id: 12,
+      compliment: "Du bist nicht allein - ich bin immer bei dir!💓​"
+    },
+    {
+      id: 13,
+      compliment: "In dir steckt so viel mehr, was du gar nicht siehst!💓​"
+    },
+    {
+      id: 14,
+      compliment: "Ich weiß, dass du do viel mehr kannst, als du dir zutraust!💓​"
+    },
+    {
+      id: 15,
+      compliment: "Du bist perfekt so wie du bist - ich hoffe du weißt das!💓​"
+    },
+    {
+      id: 16,
+      compliment: "Ich liebe deine Pflichtbewusstheit, aber pass auf dich auf!💓​"
+    },
+    {
+      id: 17,
+      compliment: "Mach dir nicht so viel Druck, du bist gut so wie du bist!💓​"
+    },
+    {
+      id: 18,
+      compliment: "Galub an dich, ich bin mir sicher, dass du das schaffst!💓​"
+    },
+    {
+      id: 19,
+      compliment: "Du hilft so vielen Menschen, vergiss dich selbst dabei nicht!💓​"
     }
   ]
 
@@ -43,7 +95,7 @@ export default function Motivative() {
         <GoBackBtn />
       </Box>
       <Flex w="100%" h="100%" justify="center" align="center" direction="column" gap={20}>
-        <Title w="75%" order={1} c="#9a3758" align="center" mb={40}>🚀💯​</Title>
+        <Title w="75%" order={2} c="#9a3758" align="center" mb={40}>🚀Motivation💯​</Title>
         <Letter content={randomElement} start="Meine Maus,"/>
         <Text c="#9a3758" mt={0}>...Öffne deinen motivierenden Brief...</Text>
       </Flex>
