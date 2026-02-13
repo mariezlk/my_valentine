@@ -96,7 +96,7 @@ export default function Motivative() {
       </Box>
       <Flex w="100%" h="100%" justify="center" align="center" direction="column" gap={20}>
         <Title w="75%" order={2} c="#9a3758" align="center" mb={40}>🚀Motivation💯​</Title>
-        <Letter content={randomElement} start="Meine Maus,"/>
+        <Letter content={randomElement}/>
         <Text c="#9a3758" mt={0}>...Öffne deinen motivierenden Brief...</Text>
       </Flex>
     </Flex>

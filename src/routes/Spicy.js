@@ -26,13 +26,11 @@ function Spicy() {
     },
     {
       id: 5,
-      compliment:
-        "Der Gedanke an dich und wie du es mir machst, lässt mich wahnsinnig werden!❤️‍🔥​",
+      compliment: "Der Gedanke an dich und wie du es mir machst, lässt mich wahnsinnig werden!❤️‍🔥​",
     },
     {
       id: 6,
-      compliment:
-        "Ich liebe Alles an Klein-Jilli (oder auch nicht ganz so klein Klein-Jilli...)❤️‍🔥​",
+      compliment: "Ich liebe Alles an Klein-Jilli (oder auch nicht ganz so klein Klein-Jilli...)❤️‍🔥​",
     },
     {
       id: 7,
@@ -52,7 +50,7 @@ function Spicy() {
     },
     {
       id: 11,
-      compliment: "Ich finde es so heiß, wenn du mir zeigst, was du willst!❤️‍🔥​",
+      compliment: "Ich genieße jeden Stoß, den du mir schenkst!❤️‍🔥​",
     },
     {
       id: 12,
@@ -60,11 +58,43 @@ function Spicy() {
     },
     {
       id: 13,
-      compliment: "Ich liebe es mich für dich heiß anzuziehehn❤️‍🔥​",
+      compliment: "Ich liebe es mich für dich heiß anzuziehehn!❤️‍🔥​",
     },
     {
       id: 14,
-      compliment: "Ich liebe es dir deine Wünsche erfüllen zu können❤️‍🔥​",
+      compliment: "Ich liebe es dir deine Wünsche erfüllen zu können!❤️‍🔥​",
+    },
+    {
+      id: 15,
+      compliment: "Deine Muskeln sehen so unglaublich heiß aus!❤️‍🔥​",
+    },
+    {
+      id: 16,
+      compliment: "Ich liebe es deinen ganzen Körper mit Küssen zu übersehen!❤️‍🔥​",
+    },
+    {
+      id: 17,
+      compliment: "Ich liebe es, wenn du auf mir kommst!❤️‍🔥​",
+    },
+    {
+      id: 18,
+      compliment: "Dein Gesichtsausdruck und dein Blick, kurz bevo du kommst, sind so unbeschreiblich heiß!❤️‍🔥​",
+    },
+    {
+      id: 19,
+      compliment: "Ich liebe es dich mit all meinen Sinnen zu spüren!❤️‍🔥​",
+    },
+    {
+      id: 19,
+      compliment: "Ich liebe es dich mit all meinen Sinnen zu spüren!❤️‍🔥​",
+    },
+    {
+      id: 20,
+      compliment: "Ich liebe die Art und Weise, wie du meinen Rücken krauelst!❤️‍🔥​",
+    },
+    {
+      id: 21,
+      compliment: "Ich liebe es dich mit all meinen Sinnen zu spüren!❤️‍🔥​",
     },
   ];
 

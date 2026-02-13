@@ -96,7 +96,7 @@ function Lovely() {
       </Box>
       <Flex w="100%" h="100%" justify="center" align="center" direction="column" gap={20}>
         <Title w="75%" order={1} c="#ffd3e3" align="center" mb={40}>💗​Süßi💌</Title>
-        <Letter content={randomElement} start="Schatzi,"/>
+        <Letter content={randomElement} />
         <Text c="#ffd3e3" mt={0}>...Öffne deinen Süßi-Brief...</Text>
       </Flex>
     </Flex>
